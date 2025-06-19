@@ -12,6 +12,8 @@
 ## GitHub Stats
 
 ![Favor-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favor-star&show_icons=true&theme=radical)
+## Codewars stats
+![Codewars stats](https://www.codewars.com/users/favour-star/badges/large)
 
 ## Top Languages
 
